@@ -1,4 +1,4 @@
 vagrant
 =======
 
-Vagrant Project
+Sample Vagrant Project for Fusion
