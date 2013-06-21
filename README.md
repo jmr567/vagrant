@@ -1,4 +1,4 @@
 vagrant
 =======
 
-Sample Vagrant Project for Fusion
+Sample Vagrant Project for Fusion using Puppet for Configuration Management
